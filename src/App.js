@@ -37,7 +37,7 @@ export default function App() {
   <div className="header">
     <div className="logo">💼</div>
     <div>
-      <h1>JobBoard</h1>
+      <h1>JobBoard Shashank</h1>
       <p>Find your next opportunity</p>
     </div>
   </div>
